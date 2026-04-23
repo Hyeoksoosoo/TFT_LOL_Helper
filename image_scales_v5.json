@@ -1,0 +1,4592 @@
+{
+    "Aatrox/Aatrox_01.png": {
+        "scale": 0.82,
+        "x": 0.15,
+        "y": 0.29
+    },
+    "Aatrox/Aatrox_02.png": {
+        "scale": 0.7,
+        "x": 0.2,
+        "y": 0.41
+    },
+    "Aatrox/Aatrox_03.png": {
+        "scale": 0.68,
+        "x": 0.2,
+        "y": 0.39
+    },
+    "Aatrox/Aatrox_04.png": {
+        "scale": 1.0,
+        "x": -0.09,
+        "y": 0.47
+    },
+    "Aatrox/Aatrox_05.png": {
+        "scale": 0.82,
+        "x": -0.13,
+        "y": 0.35
+    },
+    "Aatrox/Aatrox_06.png": {
+        "scale": 0.74,
+        "x": -0.18,
+        "y": 0.35
+    },
+    "Aatrox/Aatrox_07.png": {
+        "scale": 0.84,
+        "x": 0.0,
+        "y": 0.36
+    },
+    "Aatrox/Aatrox_08.png": {
+        "scale": 0.91,
+        "x": 0.2,
+        "y": 0.31
+    },
+    "Aatrox/Aatrox_09.png": {
+        "scale": 0.7,
+        "x": 0.12,
+        "y": 0.31
+    },
+    "Ahri/Ahri_01.png": {
+        "scale": 0.55,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Ahri/Ahri_02.png": {
+        "scale": 0.55,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Ahri/Ahri_03.png": {
+        "scale": 0.55,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Ahri/Ahri_04.png": {
+        "scale": 0.55,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Ahri/Ahri_05.png": {
+        "scale": 0.55,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Ahri/Ahri_06.png": {
+        "scale": 0.55,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Ahri/Ahri_07.png": {
+        "scale": 0.55,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Ahri/Ahri_08.png": {
+        "scale": 0.55,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Ahri/Ahri_09.png": {
+        "scale": 0.55,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Ambessa/Ambessa_01.png": {
+        "scale": 0.66,
+        "x": 0.0,
+        "y": 0.34
+    },
+    "Ambessa/Ambessa_02.png": {
+        "scale": 0.62,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Ambessa/Ambessa_03.png": {
+        "scale": 0.58,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Ambessa/Ambessa_04.png": {
+        "scale": 0.66,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Ambessa/Ambessa_05.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Ambessa/Ambessa_06.png": {
+        "scale": 0.62,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Ambessa/Ambessa_07.png": {
+        "scale": 0.72,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Ambessa/Ambessa_08.png": {
+        "scale": 0.7,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Ambessa/Ambessa_09.png": {
+        "scale": 0.79,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Anivia/Anivia_01.png": {
+        "scale": 0.64,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Anivia/Anivia_02.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Anivia/Anivia_03.png": {
+        "scale": 0.63,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Anivia/Anivia_04.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Anivia/Anivia_05.png": {
+        "scale": 0.6,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Anivia/Anivia_06.png": {
+        "scale": 0.64,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Anivia/Anivia_07.png": {
+        "scale": 0.55,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Anivia/Anivia_08.png": {
+        "scale": 0.48,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Anivia/Anivia_09.png": {
+        "scale": 0.38,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Annie/Annie_01.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Annie/Annie_02.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Annie/Annie_03.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Annie/Annie_04.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Annie/Annie_05.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Annie/Annie_06.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Annie/Annie_07.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Annie/Annie_08.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Annie/Annie_09.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Aphelios/Aphelios_01.png": {
+        "scale": 0.79,
+        "x": 0.01,
+        "y": 0.29
+    },
+    "Aphelios/Aphelios_02.png": {
+        "scale": 0.79,
+        "x": 0.01,
+        "y": 0.29
+    },
+    "Aphelios/Aphelios_03.png": {
+        "scale": 0.79,
+        "x": 0.01,
+        "y": 0.29
+    },
+    "Aphelios/Aphelios_04.png": {
+        "scale": 0.79,
+        "x": 0.01,
+        "y": 0.29
+    },
+    "Aphelios/Aphelios_05.png": {
+        "scale": 0.79,
+        "x": 0.01,
+        "y": 0.29
+    },
+    "Aphelios/Aphelios_06.png": {
+        "scale": 0.79,
+        "x": 0.01,
+        "y": 0.29
+    },
+    "Aphelios/Aphelios_07.png": {
+        "scale": 0.79,
+        "x": 0.01,
+        "y": 0.29
+    },
+    "Aphelios/Aphelios_08.png": {
+        "scale": 0.79,
+        "x": 0.01,
+        "y": 0.29
+    },
+    "Aphelios/Aphelios_09.png": {
+        "scale": 0.79,
+        "x": 0.01,
+        "y": 0.29
+    },
+    "Ashe/Ashe_01.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.27
+    },
+    "Ashe/Ashe_02.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.27
+    },
+    "Ashe/Ashe_03.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.27
+    },
+    "Ashe/Ashe_04.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.27
+    },
+    "Ashe/Ashe_05.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.27
+    },
+    "Ashe/Ashe_06.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.27
+    },
+    "Ashe/Ashe_07.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.27
+    },
+    "Ashe/Ashe_08.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.27
+    },
+    "Ashe/Ashe_09.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.27
+    },
+    "AurelionSol/AurelionSol_01.png": {
+        "scale": 0.82,
+        "x": 0.15,
+        "y": 0.31
+    },
+    "AurelionSol/AurelionSol_02.png": {
+        "scale": 0.82,
+        "x": 0.15,
+        "y": 0.31
+    },
+    "AurelionSol/AurelionSol_03.png": {
+        "scale": 0.82,
+        "x": 0.15,
+        "y": 0.31
+    },
+    "AurelionSol/AurelionSol_04.png": {
+        "scale": 0.82,
+        "x": 0.15,
+        "y": 0.31
+    },
+    "AurelionSol/AurelionSol_05.png": {
+        "scale": 0.82,
+        "x": -0.13,
+        "y": 0.31
+    },
+    "AurelionSol/AurelionSol_06.png": {
+        "scale": 0.82,
+        "x": -0.12,
+        "y": 0.31
+    },
+    "AurelionSol/AurelionSol_07.png": {
+        "scale": 0.82,
+        "x": -0.03,
+        "y": 0.31
+    },
+    "AurelionSol/AurelionSol_08.png": {
+        "scale": 0.82,
+        "x": -0.04,
+        "y": 0.31
+    },
+    "AurelionSol/AurelionSol_09.png": {
+        "scale": 0.82,
+        "x": -0.14,
+        "y": 0.31
+    },
+    "Azir/Azir_01.png": {
+        "scale": 0.75,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Azir/Azir_02.png": {
+        "scale": 0.75,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Azir/Azir_03.png": {
+        "scale": 0.75,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Azir/Azir_04.png": {
+        "scale": 0.75,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Azir/Azir_05.png": {
+        "scale": 0.75,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Azir/Azir_06.png": {
+        "scale": 0.75,
+        "x": -0.14,
+        "y": 0.15
+    },
+    "Azir/Azir_07.png": {
+        "scale": 0.75,
+        "x": -0.14,
+        "y": 0.15
+    },
+    "Azir/Azir_08.png": {
+        "scale": 0.75,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Azir/Azir_09.png": {
+        "scale": 0.75,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Bard/Bard_01.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Bard/Bard_02.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Bard/Bard_03.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Bard/Bard_04.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Bard/Bard_05.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Bard/Bard_06.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Bard/Bard_07.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Bard/Bard_08.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Bard/Bard_09.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "BaronNashor/BaronNashor_01.png": {
+        "scale": 1.19,
+        "x": 0.0,
+        "y": 0.25
+    },
+    "BaronNashor/BaronNashor_02.png": {
+        "scale": 1.19,
+        "x": 0.0,
+        "y": 0.25
+    },
+    "BaronNashor/BaronNashor_03.png": {
+        "scale": 1.19,
+        "x": 0.0,
+        "y": 0.25
+    },
+    "BaronNashor/BaronNashor_04.png": {
+        "scale": 1.19,
+        "x": 0.0,
+        "y": 0.25
+    },
+    "BaronNashor/BaronNashor_05.png": {
+        "scale": 1.19,
+        "x": 0.0,
+        "y": 0.25
+    },
+    "BaronNashor/BaronNashor_06.png": {
+        "scale": 1.19,
+        "x": 0.0,
+        "y": 0.25
+    },
+    "BaronNashor/BaronNashor_07.png": {
+        "scale": 1.19,
+        "x": 0.0,
+        "y": 0.25
+    },
+    "BaronNashor/BaronNashor_08.png": {
+        "scale": 1.19,
+        "x": 0.0,
+        "y": 0.25
+    },
+    "BaronNashor/BaronNashor_09.png": {
+        "scale": 1.19,
+        "x": 0.0,
+        "y": 0.25
+    },
+    "BelVeth/BelVeth_01.png": {
+        "scale": 0.69,
+        "x": 0.13,
+        "y": 0.3
+    },
+    "BelVeth/BelVeth_02.png": {
+        "scale": 0.69,
+        "x": 0.13,
+        "y": 0.3
+    },
+    "BelVeth/BelVeth_03.png": {
+        "scale": 0.69,
+        "x": 0.13,
+        "y": 0.3
+    },
+    "BelVeth/BelVeth_04.png": {
+        "scale": 0.69,
+        "x": 0.13,
+        "y": 0.3
+    },
+    "BelVeth/BelVeth_05.png": {
+        "scale": 0.69,
+        "x": 0.13,
+        "y": 0.3
+    },
+    "BelVeth/BelVeth_06.png": {
+        "scale": 0.69,
+        "x": 0.13,
+        "y": 0.3
+    },
+    "BelVeth/BelVeth_07.png": {
+        "scale": 0.69,
+        "x": 0.13,
+        "y": 0.3
+    },
+    "BelVeth/BelVeth_08.png": {
+        "scale": 0.69,
+        "x": 0.13,
+        "y": 0.3
+    },
+    "BelVeth/BelVeth_09.png": {
+        "scale": 0.69,
+        "x": 0.13,
+        "y": 0.3
+    },
+    "Blitzcrank/Blitzcrank_01.png": {
+        "scale": 0.57,
+        "x": -0.14,
+        "y": 0.5
+    },
+    "Blitzcrank/Blitzcrank_02.png": {
+        "scale": 0.56,
+        "x": -0.14,
+        "y": 0.5
+    },
+    "Blitzcrank/Blitzcrank_03.png": {
+        "scale": 0.56,
+        "x": -0.14,
+        "y": 0.5
+    },
+    "Blitzcrank/Blitzcrank_04.png": {
+        "scale": 0.56,
+        "x": 0.05,
+        "y": 0.5
+    },
+    "Blitzcrank/Blitzcrank_05.png": {
+        "scale": 0.56,
+        "x": 0.14,
+        "y": 0.5
+    },
+    "Blitzcrank/Blitzcrank_06.png": {
+        "scale": 0.56,
+        "x": 0.13,
+        "y": 0.5
+    },
+    "Blitzcrank/Blitzcrank_07.png": {
+        "scale": 0.56,
+        "x": 0.12,
+        "y": 0.5
+    },
+    "Blitzcrank/Blitzcrank_08.png": {
+        "scale": 0.56,
+        "x": 0.03,
+        "y": 0.5
+    },
+    "Blitzcrank/Blitzcrank_09.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.5
+    },
+    "Braum/Braum_01.png": {
+        "scale": 0.73,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Braum/Braum_02.png": {
+        "scale": 0.73,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Braum/Braum_03.png": {
+        "scale": 0.73,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Braum/Braum_04.png": {
+        "scale": 0.73,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Braum/Braum_05.png": {
+        "scale": 0.73,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Braum/Braum_06.png": {
+        "scale": 0.73,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Braum/Braum_07.png": {
+        "scale": 0.73,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Braum/Braum_08.png": {
+        "scale": 0.73,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Braum/Braum_09.png": {
+        "scale": 0.73,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Briar/Briar_01.png": {
+        "scale": 0.64,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Briar/Briar_02.png": {
+        "scale": 0.64,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Briar/Briar_03.png": {
+        "scale": 0.64,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Briar/Briar_04.png": {
+        "scale": 0.64,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Briar/Briar_05.png": {
+        "scale": 0.64,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Briar/Briar_06.png": {
+        "scale": 0.64,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Briar/Briar_07.png": {
+        "scale": 0.64,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Briar/Briar_08.png": {
+        "scale": 0.64,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Briar/Briar_09.png": {
+        "scale": 0.64,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Brock/Brock_01.png": {
+        "scale": 1.0,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Brock/Brock_02.png": {
+        "scale": 1.0,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Brock/Brock_03.png": {
+        "scale": 1.0,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Brock/Brock_04.png": {
+        "scale": 1.0,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Brock/Brock_05.png": {
+        "scale": 1.0,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Brock/Brock_06.png": {
+        "scale": 1.0,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Brock/Brock_07.png": {
+        "scale": 1.0,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Brock/Brock_08.png": {
+        "scale": 1.0,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Brock/Brock_09.png": {
+        "scale": 1.0,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Caitlyn/Caitlyn_01.png": {
+        "scale": 0.58,
+        "x": 0.1,
+        "y": 0.27
+    },
+    "Caitlyn/Caitlyn_02.png": {
+        "scale": 0.57,
+        "x": 0.1,
+        "y": 0.27
+    },
+    "Caitlyn/Caitlyn_03.png": {
+        "scale": 0.57,
+        "x": 0.1,
+        "y": 0.27
+    },
+    "Caitlyn/Caitlyn_04.png": {
+        "scale": 0.57,
+        "x": 0.1,
+        "y": 0.27
+    },
+    "Caitlyn/Caitlyn_05.png": {
+        "scale": 0.57,
+        "x": 0.1,
+        "y": 0.27
+    },
+    "Caitlyn/Caitlyn_06.png": {
+        "scale": 0.57,
+        "x": 0.1,
+        "y": 0.27
+    },
+    "Caitlyn/Caitlyn_07.png": {
+        "scale": 0.57,
+        "x": 0.1,
+        "y": 0.27
+    },
+    "Caitlyn/Caitlyn_08.png": {
+        "scale": 0.57,
+        "x": 0.1,
+        "y": 0.27
+    },
+    "Caitlyn/Caitlyn_09.png": {
+        "scale": 0.57,
+        "x": 0.1,
+        "y": 0.27
+    },
+    "ChoGath/ChoGath_01.png": {
+        "scale": 0.63,
+        "x": -0.04,
+        "y": 0.4
+    },
+    "ChoGath/ChoGath_02.png": {
+        "scale": 0.63,
+        "x": 0.1,
+        "y": 0.4
+    },
+    "ChoGath/ChoGath_03.png": {
+        "scale": 0.63,
+        "x": 0.1,
+        "y": 0.4
+    },
+    "ChoGath/ChoGath_04.png": {
+        "scale": 0.63,
+        "x": 0.1,
+        "y": 0.4
+    },
+    "ChoGath/ChoGath_05.png": {
+        "scale": 0.63,
+        "x": 0.1,
+        "y": 0.4
+    },
+    "ChoGath/ChoGath_06.png": {
+        "scale": 0.63,
+        "x": -0.06,
+        "y": 0.4
+    },
+    "ChoGath/ChoGath_07.png": {
+        "scale": 0.63,
+        "x": 0.1,
+        "y": 0.4
+    },
+    "ChoGath/ChoGath_08.png": {
+        "scale": 0.63,
+        "x": 0.03,
+        "y": 0.4
+    },
+    "ChoGath/ChoGath_09.png": {
+        "scale": 0.63,
+        "x": -0.02,
+        "y": 0.4
+    },
+    "Darius/Darius_01.png": {
+        "scale": 0.73,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Darius/Darius_02.png": {
+        "scale": 0.73,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Darius/Darius_03.png": {
+        "scale": 0.73,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Darius/Darius_04.png": {
+        "scale": 0.73,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Darius/Darius_05.png": {
+        "scale": 0.73,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Darius/Darius_06.png": {
+        "scale": 0.73,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Darius/Darius_07.png": {
+        "scale": 0.73,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Darius/Darius_08.png": {
+        "scale": 0.73,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Darius/Darius_09.png": {
+        "scale": 0.73,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Diana/Diana_01.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.4
+    },
+    "Diana/Diana_02.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.4
+    },
+    "Diana/Diana_03.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.4
+    },
+    "Diana/Diana_04.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.4
+    },
+    "Diana/Diana_05.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.4
+    },
+    "Diana/Diana_06.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.4
+    },
+    "Diana/Diana_07.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.4
+    },
+    "Diana/Diana_08.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.4
+    },
+    "Diana/Diana_09.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.4
+    },
+    "DrMundo/DrMundo_01.png": {
+        "scale": 0.79,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "DrMundo/DrMundo_02.png": {
+        "scale": 0.79,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "DrMundo/DrMundo_03.png": {
+        "scale": 0.7,
+        "x": -0.04,
+        "y": 0.37
+    },
+    "DrMundo/DrMundo_04.png": {
+        "scale": 0.79,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "DrMundo/DrMundo_05.png": {
+        "scale": 0.79,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "DrMundo/DrMundo_06.png": {
+        "scale": 0.79,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "DrMundo/DrMundo_07.png": {
+        "scale": 0.79,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "DrMundo/DrMundo_08.png": {
+        "scale": 0.79,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "DrMundo/DrMundo_09.png": {
+        "scale": 0.79,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "Draven/Draven_01.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.37
+    },
+    "Draven/Draven_02.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.37
+    },
+    "Draven/Draven_03.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.37
+    },
+    "Draven/Draven_04.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.37
+    },
+    "Draven/Draven_05.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.37
+    },
+    "Draven/Draven_06.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.37
+    },
+    "Draven/Draven_07.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.37
+    },
+    "Draven/Draven_08.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.37
+    },
+    "Draven/Draven_09.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.37
+    },
+    "Ekko/Ekko_01.png": {
+        "scale": 0.44,
+        "x": -0.02,
+        "y": 0.38
+    },
+    "Ekko/Ekko_02.png": {
+        "scale": 0.44,
+        "x": -0.02,
+        "y": 0.38
+    },
+    "Ekko/Ekko_03.png": {
+        "scale": 0.44,
+        "x": -0.02,
+        "y": 0.38
+    },
+    "Ekko/Ekko_04.png": {
+        "scale": 0.44,
+        "x": -0.02,
+        "y": 0.38
+    },
+    "Ekko/Ekko_05.png": {
+        "scale": 0.44,
+        "x": -0.02,
+        "y": 0.38
+    },
+    "Ekko/Ekko_06.png": {
+        "scale": 0.44,
+        "x": -0.02,
+        "y": 0.38
+    },
+    "Ekko/Ekko_07.png": {
+        "scale": 0.44,
+        "x": -0.02,
+        "y": 0.38
+    },
+    "Ekko/Ekko_08.png": {
+        "scale": 0.44,
+        "x": -0.02,
+        "y": 0.38
+    },
+    "Ekko/Ekko_09.png": {
+        "scale": 0.44,
+        "x": -0.02,
+        "y": 0.38
+    },
+    "Fiddlesticks/Fiddlesticks_01.png": {
+        "scale": 0.77,
+        "x": 0.0,
+        "y": 0.43
+    },
+    "Fiddlesticks/Fiddlesticks_02.png": {
+        "scale": 0.77,
+        "x": 0.0,
+        "y": 0.43
+    },
+    "Fiddlesticks/Fiddlesticks_03.png": {
+        "scale": 0.77,
+        "x": 0.0,
+        "y": 0.43
+    },
+    "Fiddlesticks/Fiddlesticks_04.png": {
+        "scale": 0.77,
+        "x": 0.0,
+        "y": 0.43
+    },
+    "Fiddlesticks/Fiddlesticks_05.png": {
+        "scale": 0.77,
+        "x": 0.0,
+        "y": 0.43
+    },
+    "Fiddlesticks/Fiddlesticks_06.png": {
+        "scale": 0.77,
+        "x": 0.0,
+        "y": 0.43
+    },
+    "Fiddlesticks/Fiddlesticks_07.png": {
+        "scale": 0.77,
+        "x": 0.0,
+        "y": 0.43
+    },
+    "Fiddlesticks/Fiddlesticks_08.png": {
+        "scale": 0.77,
+        "x": 0.0,
+        "y": 0.43
+    },
+    "Fiddlesticks/Fiddlesticks_09.png": {
+        "scale": 0.77,
+        "x": 0.0,
+        "y": 0.43
+    },
+    "Fizz/Fizz_01.png": {
+        "scale": 0.44,
+        "x": -0.08,
+        "y": 0.42
+    },
+    "Fizz/Fizz_02.png": {
+        "scale": 0.44,
+        "x": -0.08,
+        "y": 0.42
+    },
+    "Fizz/Fizz_03.png": {
+        "scale": 0.44,
+        "x": -0.08,
+        "y": 0.42
+    },
+    "Fizz/Fizz_04.png": {
+        "scale": 0.44,
+        "x": -0.08,
+        "y": 0.42
+    },
+    "Fizz/Fizz_05.png": {
+        "scale": 0.44,
+        "x": -0.08,
+        "y": 0.42
+    },
+    "Fizz/Fizz_06.png": {
+        "scale": 0.44,
+        "x": -0.08,
+        "y": 0.42
+    },
+    "Fizz/Fizz_07.png": {
+        "scale": 0.44,
+        "x": -0.08,
+        "y": 0.42
+    },
+    "Fizz/Fizz_08.png": {
+        "scale": 0.44,
+        "x": -0.08,
+        "y": 0.42
+    },
+    "Fizz/Fizz_09.png": {
+        "scale": 0.44,
+        "x": -0.08,
+        "y": 0.42
+    },
+    "Galio/Galio_01.png": {
+        "scale": 0.89,
+        "x": 0.2,
+        "y": 0.2
+    },
+    "Galio/Galio_02.png": {
+        "scale": 0.89,
+        "x": 0.2,
+        "y": 0.2
+    },
+    "Galio/Galio_03.png": {
+        "scale": 0.89,
+        "x": 0.2,
+        "y": 0.2
+    },
+    "Galio/Galio_04.png": {
+        "scale": 0.89,
+        "x": 0.04,
+        "y": 0.41
+    },
+    "Galio/Galio_05.png": {
+        "scale": 0.89,
+        "x": 0.0,
+        "y": 0.37
+    },
+    "Galio/Galio_06.png": {
+        "scale": 0.89,
+        "x": -0.03,
+        "y": 0.38
+    },
+    "Galio/Galio_07.png": {
+        "scale": 0.89,
+        "x": -0.02,
+        "y": 0.29
+    },
+    "Galio/Galio_08.png": {
+        "scale": 0.89,
+        "x": 0.2,
+        "y": 0.2
+    },
+    "Galio/Galio_09.png": {
+        "scale": 0.89,
+        "x": 0.2,
+        "y": 0.2
+    },
+    "Gangplank/Gangplank_01.png": {
+        "scale": 0.55,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Gangplank/Gangplank_02.png": {
+        "scale": 0.55,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Gangplank/Gangplank_03.png": {
+        "scale": 0.55,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Gangplank/Gangplank_04.png": {
+        "scale": 0.55,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Gangplank/Gangplank_05.png": {
+        "scale": 0.55,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Gangplank/Gangplank_06.png": {
+        "scale": 0.55,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Gangplank/Gangplank_07.png": {
+        "scale": 0.55,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Gangplank/Gangplank_08.png": {
+        "scale": 0.55,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Gangplank/Gangplank_09.png": {
+        "scale": 0.55,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Garen/Garen_01.png": {
+        "scale": 0.57,
+        "x": -0.16,
+        "y": 0.32
+    },
+    "Garen/Garen_02.png": {
+        "scale": 0.56,
+        "x": -0.16,
+        "y": 0.32
+    },
+    "Garen/Garen_03.png": {
+        "scale": 0.56,
+        "x": -0.16,
+        "y": 0.32
+    },
+    "Garen/Garen_04.png": {
+        "scale": 0.56,
+        "x": 0.1,
+        "y": 0.32
+    },
+    "Garen/Garen_05.png": {
+        "scale": 0.56,
+        "x": 0.11,
+        "y": 0.32
+    },
+    "Garen/Garen_06.png": {
+        "scale": 0.56,
+        "x": 0.13,
+        "y": 0.32
+    },
+    "Garen/Garen_07.png": {
+        "scale": 0.56,
+        "x": -0.02,
+        "y": 0.32
+    },
+    "Garen/Garen_08.png": {
+        "scale": 0.56,
+        "x": -0.16,
+        "y": 0.32
+    },
+    "Garen/Garen_09.png": {
+        "scale": 0.56,
+        "x": -0.16,
+        "y": 0.32
+    },
+    "Graves/Graves_01.png": {
+        "scale": 0.55,
+        "x": -0.04,
+        "y": 0.37
+    },
+    "Graves/Graves_02.png": {
+        "scale": 0.55,
+        "x": -0.04,
+        "y": 0.37
+    },
+    "Graves/Graves_03.png": {
+        "scale": 0.55,
+        "x": -0.04,
+        "y": 0.37
+    },
+    "Graves/Graves_04.png": {
+        "scale": 0.55,
+        "x": -0.04,
+        "y": 0.37
+    },
+    "Graves/Graves_05.png": {
+        "scale": 0.55,
+        "x": -0.04,
+        "y": 0.37
+    },
+    "Graves/Graves_06.png": {
+        "scale": 0.55,
+        "x": -0.04,
+        "y": 0.37
+    },
+    "Graves/Graves_07.png": {
+        "scale": 0.55,
+        "x": -0.04,
+        "y": 0.37
+    },
+    "Graves/Graves_08.png": {
+        "scale": 0.55,
+        "x": -0.04,
+        "y": 0.37
+    },
+    "Graves/Graves_09.png": {
+        "scale": 0.55,
+        "x": -0.04,
+        "y": 0.37
+    },
+    "Gwen/Gwen_01.png": {
+        "scale": 0.51,
+        "x": 0.12,
+        "y": 0.26
+    },
+    "Gwen/Gwen_02.png": {
+        "scale": 0.51,
+        "x": 0.12,
+        "y": 0.26
+    },
+    "Gwen/Gwen_03.png": {
+        "scale": 0.51,
+        "x": 0.12,
+        "y": 0.26
+    },
+    "Gwen/Gwen_04.png": {
+        "scale": 0.51,
+        "x": 0.12,
+        "y": 0.26
+    },
+    "Gwen/Gwen_05.png": {
+        "scale": 0.51,
+        "x": 0.12,
+        "y": 0.26
+    },
+    "Gwen/Gwen_06.png": {
+        "scale": 0.85,
+        "x": 0.08,
+        "y": 0.48
+    },
+    "Gwen/Gwen_07.png": {
+        "scale": 0.51,
+        "x": -0.07,
+        "y": 0.26
+    },
+    "Gwen/Gwen_08.png": {
+        "scale": 0.51,
+        "x": 0.12,
+        "y": 0.26
+    },
+    "Gwen/Gwen_09.png": {
+        "scale": 0.51,
+        "x": 0.12,
+        "y": 0.26
+    },
+    "Illaoi/Illaoi_01.png": {
+        "scale": 0.79,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Illaoi/Illaoi_02.png": {
+        "scale": 0.79,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Illaoi/Illaoi_03.png": {
+        "scale": 0.79,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Illaoi/Illaoi_04.png": {
+        "scale": 0.79,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Illaoi/Illaoi_05.png": {
+        "scale": 0.79,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Illaoi/Illaoi_06.png": {
+        "scale": 0.79,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Illaoi/Illaoi_07.png": {
+        "scale": 0.79,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Illaoi/Illaoi_08.png": {
+        "scale": 0.79,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Illaoi/Illaoi_09.png": {
+        "scale": 0.79,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "JarvanIV/JarvanIV_01.png": {
+        "scale": 0.89,
+        "x": -0.11,
+        "y": 0.23
+    },
+    "JarvanIV/JarvanIV_02.png": {
+        "scale": 0.89,
+        "x": -0.11,
+        "y": 0.23
+    },
+    "JarvanIV/JarvanIV_03.png": {
+        "scale": 0.89,
+        "x": -0.11,
+        "y": 0.23
+    },
+    "JarvanIV/JarvanIV_04.png": {
+        "scale": 0.89,
+        "x": -0.11,
+        "y": 0.23
+    },
+    "JarvanIV/JarvanIV_05.png": {
+        "scale": 0.89,
+        "x": -0.11,
+        "y": 0.23
+    },
+    "JarvanIV/JarvanIV_06.png": {
+        "scale": 0.89,
+        "x": -0.11,
+        "y": 0.23
+    },
+    "JarvanIV/JarvanIV_07.png": {
+        "scale": 0.89,
+        "x": -0.11,
+        "y": 0.23
+    },
+    "JarvanIV/JarvanIV_08.png": {
+        "scale": 0.89,
+        "x": -0.11,
+        "y": 0.23
+    },
+    "JarvanIV/JarvanIV_09.png": {
+        "scale": 0.89,
+        "x": -0.11,
+        "y": 0.23
+    },
+    "Jhin/Jhin_01.png": {
+        "scale": 0.64,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Jhin/Jhin_02.png": {
+        "scale": 0.64,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Jhin/Jhin_03.png": {
+        "scale": 0.64,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Jhin/Jhin_04.png": {
+        "scale": 0.64,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Jhin/Jhin_05.png": {
+        "scale": 0.64,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Jhin/Jhin_06.png": {
+        "scale": 0.64,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Jhin/Jhin_07.png": {
+        "scale": 0.64,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Jhin/Jhin_08.png": {
+        "scale": 0.64,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Jhin/Jhin_09.png": {
+        "scale": 0.64,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Jinx/Jinx_01.png": {
+        "scale": 0.55,
+        "x": 0.16,
+        "y": 0.38
+    },
+    "Jinx/Jinx_02.png": {
+        "scale": 0.55,
+        "x": 0.16,
+        "y": 0.38
+    },
+    "Jinx/Jinx_03.png": {
+        "scale": 0.55,
+        "x": 0.16,
+        "y": 0.38
+    },
+    "Jinx/Jinx_04.png": {
+        "scale": 0.55,
+        "x": 0.16,
+        "y": 0.38
+    },
+    "Jinx/Jinx_05.png": {
+        "scale": 0.55,
+        "x": 0.16,
+        "y": 0.38
+    },
+    "Jinx/Jinx_06.png": {
+        "scale": 0.55,
+        "x": 0.16,
+        "y": 0.38
+    },
+    "Jinx/Jinx_07.png": {
+        "scale": 0.55,
+        "x": 0.16,
+        "y": 0.38
+    },
+    "Jinx/Jinx_08.png": {
+        "scale": 0.55,
+        "x": 0.16,
+        "y": 0.38
+    },
+    "Jinx/Jinx_09.png": {
+        "scale": 0.55,
+        "x": 0.16,
+        "y": 0.38
+    },
+    "KaiSa/KaiSa_01.png": {
+        "scale": 0.7,
+        "x": 0.18,
+        "y": 0.32
+    },
+    "KaiSa/KaiSa_02.png": {
+        "scale": 0.7,
+        "x": 0.18,
+        "y": 0.32
+    },
+    "KaiSa/KaiSa_03.png": {
+        "scale": 0.7,
+        "x": 0.18,
+        "y": 0.32
+    },
+    "KaiSa/KaiSa_04.png": {
+        "scale": 0.7,
+        "x": 0.18,
+        "y": 0.32
+    },
+    "KaiSa/KaiSa_05.png": {
+        "scale": 0.7,
+        "x": 0.18,
+        "y": 0.32
+    },
+    "KaiSa/KaiSa_06.png": {
+        "scale": 0.7,
+        "x": 0.18,
+        "y": 0.32
+    },
+    "KaiSa/KaiSa_07.png": {
+        "scale": 0.7,
+        "x": 0.18,
+        "y": 0.32
+    },
+    "KaiSa/KaiSa_08.png": {
+        "scale": 0.7,
+        "x": 0.18,
+        "y": 0.32
+    },
+    "KaiSa/KaiSa_09.png": {
+        "scale": 0.7,
+        "x": 0.18,
+        "y": 0.32
+    },
+    "Kalista/Kalista_01.png": {
+        "scale": 0.51,
+        "x": 0.2,
+        "y": 0.39
+    },
+    "Kalista/Kalista_02.png": {
+        "scale": 0.51,
+        "x": 0.2,
+        "y": 0.39
+    },
+    "Kalista/Kalista_03.png": {
+        "scale": 0.51,
+        "x": 0.2,
+        "y": 0.39
+    },
+    "Kalista/Kalista_04.png": {
+        "scale": 0.51,
+        "x": 0.2,
+        "y": 0.39
+    },
+    "Kalista/Kalista_05.png": {
+        "scale": 0.51,
+        "x": -0.08,
+        "y": 0.39
+    },
+    "Kalista/Kalista_06.png": {
+        "scale": 0.51,
+        "x": 0.2,
+        "y": 0.39
+    },
+    "Kalista/Kalista_07.png": {
+        "scale": 0.51,
+        "x": 0.09,
+        "y": 0.39
+    },
+    "Kalista/Kalista_08.png": {
+        "scale": 0.51,
+        "x": 0.2,
+        "y": 0.39
+    },
+    "Kalista/Kalista_09.png": {
+        "scale": 0.51,
+        "x": 0.2,
+        "y": 0.39
+    },
+    "Kennen/Kennen_01.png": {
+        "scale": 0.38,
+        "x": 0.0,
+        "y": 0.23
+    },
+    "Kennen/Kennen_02.png": {
+        "scale": 0.38,
+        "x": 0.0,
+        "y": 0.23
+    },
+    "Kennen/Kennen_03.png": {
+        "scale": 0.38,
+        "x": 0.0,
+        "y": 0.23
+    },
+    "Kennen/Kennen_04.png": {
+        "scale": 0.38,
+        "x": 0.0,
+        "y": 0.23
+    },
+    "Kennen/Kennen_05.png": {
+        "scale": 0.38,
+        "x": 0.0,
+        "y": 0.23
+    },
+    "Kennen/Kennen_06.png": {
+        "scale": 0.38,
+        "x": 0.0,
+        "y": 0.23
+    },
+    "Kennen/Kennen_07.png": {
+        "scale": 0.38,
+        "x": 0.0,
+        "y": 0.23
+    },
+    "Kennen/Kennen_08.png": {
+        "scale": 0.38,
+        "x": 0.0,
+        "y": 0.23
+    },
+    "Kennen/Kennen_09.png": {
+        "scale": 0.38,
+        "x": 0.0,
+        "y": 0.23
+    },
+    "Kindred/Kindred_01.png": {
+        "scale": 0.48,
+        "x": -0.2,
+        "y": 0.32
+    },
+    "Kindred/Kindred_02.png": {
+        "scale": 0.48,
+        "x": -0.2,
+        "y": 0.32
+    },
+    "Kindred/Kindred_03.png": {
+        "scale": 0.48,
+        "x": -0.2,
+        "y": 0.32
+    },
+    "Kindred/Kindred_04.png": {
+        "scale": 0.48,
+        "x": -0.2,
+        "y": 0.32
+    },
+    "Kindred/Kindred_05.png": {
+        "scale": 0.48,
+        "x": -0.2,
+        "y": 0.32
+    },
+    "Kindred/Kindred_06.png": {
+        "scale": 0.48,
+        "x": -0.2,
+        "y": 0.32
+    },
+    "Kindred/Kindred_07.png": {
+        "scale": 0.48,
+        "x": -0.2,
+        "y": 0.32
+    },
+    "Kindred/Kindred_08.png": {
+        "scale": 0.48,
+        "x": -0.2,
+        "y": 0.32
+    },
+    "Kindred/Kindred_09.png": {
+        "scale": 0.48,
+        "x": -0.2,
+        "y": 0.32
+    },
+    "KobukoYuumi/KobukoYuumi_01.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "KobukoYuumi/KobukoYuumi_02.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "KobukoYuumi/KobukoYuumi_03.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "KobukoYuumi/KobukoYuumi_04.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "KobukoYuumi/KobukoYuumi_05.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "KobukoYuumi/KobukoYuumi_06.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "KobukoYuumi/KobukoYuumi_07.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "KobukoYuumi/KobukoYuumi_08.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "KobukoYuumi/KobukoYuumi_09.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "KogMaw/KogMaw_01.png": {
+        "scale": 0.52,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "KogMaw/KogMaw_02.png": {
+        "scale": 0.52,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "KogMaw/KogMaw_03.png": {
+        "scale": 0.52,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "KogMaw/KogMaw_04.png": {
+        "scale": 0.52,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "KogMaw/KogMaw_05.png": {
+        "scale": 0.52,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "KogMaw/KogMaw_06.png": {
+        "scale": 0.52,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "KogMaw/KogMaw_07.png": {
+        "scale": 0.52,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "KogMaw/KogMaw_08.png": {
+        "scale": 0.52,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "KogMaw/KogMaw_09.png": {
+        "scale": 0.52,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "LeBlanc/LeBlanc_01.png": {
+        "scale": 0.58,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "LeBlanc/LeBlanc_02.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "LeBlanc/LeBlanc_03.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "LeBlanc/LeBlanc_04.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "LeBlanc/LeBlanc_05.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "LeBlanc/LeBlanc_06.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "LeBlanc/LeBlanc_07.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "LeBlanc/LeBlanc_08.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "LeBlanc/LeBlanc_09.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Leona/Leona_01.png": {
+        "scale": 0.65,
+        "x": -0.15,
+        "y": 0.27
+    },
+    "Leona/Leona_02.png": {
+        "scale": 0.65,
+        "x": -0.15,
+        "y": 0.27
+    },
+    "Leona/Leona_03.png": {
+        "scale": 0.65,
+        "x": -0.15,
+        "y": 0.27
+    },
+    "Leona/Leona_04.png": {
+        "scale": 0.65,
+        "x": -0.15,
+        "y": 0.27
+    },
+    "Leona/Leona_05.png": {
+        "scale": 0.65,
+        "x": -0.15,
+        "y": 0.27
+    },
+    "Leona/Leona_06.png": {
+        "scale": 0.65,
+        "x": -0.15,
+        "y": 0.27
+    },
+    "Leona/Leona_07.png": {
+        "scale": 0.65,
+        "x": -0.15,
+        "y": 0.27
+    },
+    "Leona/Leona_08.png": {
+        "scale": 0.65,
+        "x": -0.15,
+        "y": 0.27
+    },
+    "Leona/Leona_09.png": {
+        "scale": 0.65,
+        "x": -0.15,
+        "y": 0.27
+    },
+    "Lissandra/Lissandra_01.png": {
+        "scale": 0.66,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Lissandra/Lissandra_02.png": {
+        "scale": 0.66,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Lissandra/Lissandra_03.png": {
+        "scale": 0.66,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Lissandra/Lissandra_04.png": {
+        "scale": 0.66,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Lissandra/Lissandra_05.png": {
+        "scale": 0.66,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Lissandra/Lissandra_06.png": {
+        "scale": 0.66,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Lissandra/Lissandra_07.png": {
+        "scale": 0.66,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Lissandra/Lissandra_08.png": {
+        "scale": 0.66,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Lissandra/Lissandra_09.png": {
+        "scale": 0.66,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Loris/Loris_01.png": {
+        "scale": 0.58,
+        "x": 0.0,
+        "y": 0.37
+    },
+    "Loris/Loris_02.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.37
+    },
+    "Loris/Loris_03.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.37
+    },
+    "Loris/Loris_04.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.37
+    },
+    "Loris/Loris_05.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.37
+    },
+    "Loris/Loris_06.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.37
+    },
+    "Loris/Loris_07.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.37
+    },
+    "Loris/Loris_08.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.37
+    },
+    "Loris/Loris_09.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.37
+    },
+    "Lucian/Lucian_01.png": {
+        "scale": 0.56,
+        "x": -0.09,
+        "y": 0.28
+    },
+    "Lucian/Lucian_02.png": {
+        "scale": 0.56,
+        "x": -0.09,
+        "y": 0.28
+    },
+    "Lucian/Lucian_03.png": {
+        "scale": 0.56,
+        "x": -0.09,
+        "y": 0.28
+    },
+    "Lucian/Lucian_04.png": {
+        "scale": 0.56,
+        "x": -0.09,
+        "y": 0.28
+    },
+    "Lucian/Lucian_05.png": {
+        "scale": 0.56,
+        "x": -0.09,
+        "y": 0.28
+    },
+    "Lucian/Lucian_06.png": {
+        "scale": 0.56,
+        "x": -0.09,
+        "y": 0.28
+    },
+    "Lucian/Lucian_07.png": {
+        "scale": 0.56,
+        "x": -0.09,
+        "y": 0.28
+    },
+    "Lucian/Lucian_08.png": {
+        "scale": 0.56,
+        "x": -0.09,
+        "y": 0.28
+    },
+    "Lucian/Lucian_09.png": {
+        "scale": 0.56,
+        "x": -0.09,
+        "y": 0.28
+    },
+    "Lulu/Lulu_01.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.23
+    },
+    "Lulu/Lulu_02.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.23
+    },
+    "Lulu/Lulu_03.png": {
+        "scale": 0.38,
+        "x": 0.09,
+        "y": 0.3
+    },
+    "Lulu/Lulu_04.png": {
+        "scale": 0.38,
+        "x": 0.0,
+        "y": 0.43
+    },
+    "Lulu/Lulu_05.png": {
+        "scale": 0.46,
+        "x": 0.0,
+        "y": 0.23
+    },
+    "Lulu/Lulu_06.png": {
+        "scale": 0.56,
+        "x": -0.07,
+        "y": 0.23
+    },
+    "Lulu/Lulu_07.png": {
+        "scale": 0.46,
+        "x": 0.0,
+        "y": 0.23
+    },
+    "Lulu/Lulu_08.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.23
+    },
+    "Lulu/Lulu_09.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.23
+    },
+    "Lux/Lux_01.png": {
+        "scale": 0.51,
+        "x": -0.05,
+        "y": 0.35
+    },
+    "Lux/Lux_02.png": {
+        "scale": 0.51,
+        "x": -0.05,
+        "y": 0.35
+    },
+    "Lux/Lux_03.png": {
+        "scale": 0.51,
+        "x": -0.05,
+        "y": 0.35
+    },
+    "Lux/Lux_04.png": {
+        "scale": 0.51,
+        "x": -0.05,
+        "y": 0.35
+    },
+    "Lux/Lux_05.png": {
+        "scale": 0.51,
+        "x": -0.05,
+        "y": 0.35
+    },
+    "Lux/Lux_06.png": {
+        "scale": 0.51,
+        "x": -0.05,
+        "y": 0.35
+    },
+    "Lux/Lux_07.png": {
+        "scale": 0.51,
+        "x": -0.05,
+        "y": 0.35
+    },
+    "Lux/Lux_08.png": {
+        "scale": 0.51,
+        "x": -0.05,
+        "y": 0.35
+    },
+    "Lux/Lux_09.png": {
+        "scale": 0.51,
+        "x": -0.05,
+        "y": 0.35
+    },
+    "Malzahar/Malzahar_01.png": {
+        "scale": 0.53,
+        "x": 0.0,
+        "y": 0.26
+    },
+    "Malzahar/Malzahar_02.png": {
+        "scale": 0.53,
+        "x": 0.0,
+        "y": 0.26
+    },
+    "Malzahar/Malzahar_03.png": {
+        "scale": 0.53,
+        "x": 0.0,
+        "y": 0.26
+    },
+    "Malzahar/Malzahar_04.png": {
+        "scale": 0.53,
+        "x": 0.0,
+        "y": 0.26
+    },
+    "Malzahar/Malzahar_05.png": {
+        "scale": 0.53,
+        "x": 0.0,
+        "y": 0.26
+    },
+    "Malzahar/Malzahar_06.png": {
+        "scale": 0.53,
+        "x": 0.0,
+        "y": 0.26
+    },
+    "Malzahar/Malzahar_07.png": {
+        "scale": 0.53,
+        "x": 0.0,
+        "y": 0.26
+    },
+    "Malzahar/Malzahar_08.png": {
+        "scale": 0.53,
+        "x": 0.0,
+        "y": 0.26
+    },
+    "Malzahar/Malzahar_09.png": {
+        "scale": 0.53,
+        "x": 0.0,
+        "y": 0.26
+    },
+    "Mel/Mel_01.png": {
+        "scale": 0.62,
+        "x": 0.07,
+        "y": 0.39
+    },
+    "Mel/Mel_02.png": {
+        "scale": 0.62,
+        "x": 0.07,
+        "y": 0.39
+    },
+    "Mel/Mel_03.png": {
+        "scale": 0.62,
+        "x": 0.07,
+        "y": 0.39
+    },
+    "Mel/Mel_04.png": {
+        "scale": 0.62,
+        "x": 0.07,
+        "y": 0.39
+    },
+    "Mel/Mel_05.png": {
+        "scale": 0.62,
+        "x": 0.07,
+        "y": 0.39
+    },
+    "Mel/Mel_06.png": {
+        "scale": 0.62,
+        "x": 0.07,
+        "y": 0.39
+    },
+    "Mel/Mel_07.png": {
+        "scale": 0.62,
+        "x": 0.07,
+        "y": 0.39
+    },
+    "Mel/Mel_08.png": {
+        "scale": 0.62,
+        "x": 0.07,
+        "y": 0.39
+    },
+    "Mel/Mel_09.png": {
+        "scale": 0.62,
+        "x": 0.07,
+        "y": 0.39
+    },
+    "Milio/Milio_01.png": {
+        "scale": 0.62,
+        "x": 0.13,
+        "y": 0.34
+    },
+    "Milio/Milio_02.png": {
+        "scale": 0.62,
+        "x": 0.13,
+        "y": 0.34
+    },
+    "Milio/Milio_03.png": {
+        "scale": 0.62,
+        "x": 0.13,
+        "y": 0.34
+    },
+    "Milio/Milio_04.png": {
+        "scale": 0.62,
+        "x": 0.13,
+        "y": 0.34
+    },
+    "Milio/Milio_05.png": {
+        "scale": 0.62,
+        "x": 0.13,
+        "y": 0.34
+    },
+    "Milio/Milio_06.png": {
+        "scale": 0.62,
+        "x": 0.13,
+        "y": 0.34
+    },
+    "Milio/Milio_07.png": {
+        "scale": 0.62,
+        "x": 0.13,
+        "y": 0.34
+    },
+    "Milio/Milio_08.png": {
+        "scale": 0.62,
+        "x": 0.13,
+        "y": 0.34
+    },
+    "Milio/Milio_09.png": {
+        "scale": 0.62,
+        "x": 0.13,
+        "y": 0.34
+    },
+    "MissFortune/MissFortune_01.png": {
+        "scale": 0.54,
+        "x": -0.06,
+        "y": 0.41
+    },
+    "MissFortune/MissFortune_02.png": {
+        "scale": 0.54,
+        "x": -0.06,
+        "y": 0.41
+    },
+    "MissFortune/MissFortune_03.png": {
+        "scale": 0.54,
+        "x": -0.06,
+        "y": 0.41
+    },
+    "MissFortune/MissFortune_04.png": {
+        "scale": 0.54,
+        "x": -0.06,
+        "y": 0.41
+    },
+    "MissFortune/MissFortune_05.png": {
+        "scale": 0.54,
+        "x": -0.06,
+        "y": 0.41
+    },
+    "MissFortune/MissFortune_06.png": {
+        "scale": 0.54,
+        "x": -0.06,
+        "y": 0.41
+    },
+    "MissFortune/MissFortune_07.png": {
+        "scale": 0.54,
+        "x": -0.06,
+        "y": 0.41
+    },
+    "MissFortune/MissFortune_08.png": {
+        "scale": 0.54,
+        "x": -0.06,
+        "y": 0.41
+    },
+    "MissFortune/MissFortune_09.png": {
+        "scale": 0.54,
+        "x": -0.06,
+        "y": 0.41
+    },
+    "Nasus/Nasus_01.png": {
+        "scale": 0.67,
+        "x": 0.17,
+        "y": 0.45
+    },
+    "Nasus/Nasus_02.png": {
+        "scale": 0.67,
+        "x": 0.17,
+        "y": 0.45
+    },
+    "Nasus/Nasus_03.png": {
+        "scale": 0.67,
+        "x": 0.17,
+        "y": 0.45
+    },
+    "Nasus/Nasus_04.png": {
+        "scale": 0.67,
+        "x": 0.17,
+        "y": 0.45
+    },
+    "Nasus/Nasus_05.png": {
+        "scale": 0.67,
+        "x": -0.05,
+        "y": 0.45
+    },
+    "Nasus/Nasus_06.png": {
+        "scale": 0.67,
+        "x": -0.15,
+        "y": 0.45
+    },
+    "Nasus/Nasus_07.png": {
+        "scale": 0.67,
+        "x": -0.04,
+        "y": 0.45
+    },
+    "Nasus/Nasus_08.png": {
+        "scale": 0.67,
+        "x": -0.18,
+        "y": 0.45
+    },
+    "Nasus/Nasus_09.png": {
+        "scale": 0.67,
+        "x": -0.08,
+        "y": 0.45
+    },
+    "Nautilus/Nautilus_01.png": {
+        "scale": 1.0,
+        "x": -0.01,
+        "y": 0.33
+    },
+    "Nautilus/Nautilus_02.png": {
+        "scale": 0.85,
+        "x": 0.19,
+        "y": 0.33
+    },
+    "Nautilus/Nautilus_03.png": {
+        "scale": 0.6,
+        "x": 0.17,
+        "y": 0.33
+    },
+    "Nautilus/Nautilus_04.png": {
+        "scale": 0.72,
+        "x": -0.01,
+        "y": 0.33
+    },
+    "Nautilus/Nautilus_05.png": {
+        "scale": 0.71,
+        "x": -0.01,
+        "y": 0.33
+    },
+    "Nautilus/Nautilus_06.png": {
+        "scale": 0.69,
+        "x": -0.01,
+        "y": 0.33
+    },
+    "Nautilus/Nautilus_07.png": {
+        "scale": 0.88,
+        "x": -0.01,
+        "y": 0.33
+    },
+    "Nautilus/Nautilus_08.png": {
+        "scale": 1.0,
+        "x": -0.01,
+        "y": 0.33
+    },
+    "Nautilus/Nautilus_09.png": {
+        "scale": 1.0,
+        "x": -0.01,
+        "y": 0.33
+    },
+    "Neeko/Neeko_01.png": {
+        "scale": 0.64,
+        "x": 0.13,
+        "y": 0.27
+    },
+    "Neeko/Neeko_02.png": {
+        "scale": 0.64,
+        "x": 0.13,
+        "y": 0.27
+    },
+    "Neeko/Neeko_03.png": {
+        "scale": 0.64,
+        "x": 0.13,
+        "y": 0.27
+    },
+    "Neeko/Neeko_04.png": {
+        "scale": 0.64,
+        "x": 0.13,
+        "y": 0.27
+    },
+    "Neeko/Neeko_05.png": {
+        "scale": 0.64,
+        "x": 0.13,
+        "y": 0.27
+    },
+    "Neeko/Neeko_06.png": {
+        "scale": 0.64,
+        "x": 0.13,
+        "y": 0.27
+    },
+    "Neeko/Neeko_07.png": {
+        "scale": 0.64,
+        "x": 0.13,
+        "y": 0.27
+    },
+    "Neeko/Neeko_08.png": {
+        "scale": 0.64,
+        "x": 0.13,
+        "y": 0.27
+    },
+    "Neeko/Neeko_09.png": {
+        "scale": 0.64,
+        "x": 0.13,
+        "y": 0.27
+    },
+    "Nidalee/Nidalee_01.png": {
+        "scale": 0.66,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "Nidalee/Nidalee_02.png": {
+        "scale": 0.41,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "Nidalee/Nidalee_03.png": {
+        "scale": 0.66,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "Nidalee/Nidalee_04.png": {
+        "scale": 0.66,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "Nidalee/Nidalee_05.png": {
+        "scale": 0.66,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "Nidalee/Nidalee_06.png": {
+        "scale": 0.66,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "Nidalee/Nidalee_07.png": {
+        "scale": 0.66,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "Nidalee/Nidalee_08.png": {
+        "scale": 0.66,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "Nidalee/Nidalee_09.png": {
+        "scale": 0.66,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "Orianna/Orianna_01.png": {
+        "scale": 0.5,
+        "x": 0.0,
+        "y": 0.4
+    },
+    "Orianna/Orianna_02.png": {
+        "scale": 0.5,
+        "x": 0.0,
+        "y": 0.4
+    },
+    "Orianna/Orianna_03.png": {
+        "scale": 0.5,
+        "x": 0.0,
+        "y": 0.4
+    },
+    "Orianna/Orianna_04.png": {
+        "scale": 0.5,
+        "x": 0.0,
+        "y": 0.4
+    },
+    "Orianna/Orianna_05.png": {
+        "scale": 0.5,
+        "x": 0.0,
+        "y": 0.4
+    },
+    "Orianna/Orianna_06.png": {
+        "scale": 0.5,
+        "x": 0.0,
+        "y": 0.4
+    },
+    "Orianna/Orianna_07.png": {
+        "scale": 0.5,
+        "x": 0.0,
+        "y": 0.4
+    },
+    "Orianna/Orianna_08.png": {
+        "scale": 0.5,
+        "x": 0.0,
+        "y": 0.4
+    },
+    "Orianna/Orianna_09.png": {
+        "scale": 0.5,
+        "x": 0.0,
+        "y": 0.4
+    },
+    "Ornn/Ornn_01.png": {
+        "scale": 0.65,
+        "x": -0.11,
+        "y": 0.38
+    },
+    "Ornn/Ornn_02.png": {
+        "scale": 0.65,
+        "x": -0.11,
+        "y": 0.38
+    },
+    "Ornn/Ornn_03.png": {
+        "scale": 0.65,
+        "x": -0.11,
+        "y": 0.38
+    },
+    "Ornn/Ornn_04.png": {
+        "scale": 0.65,
+        "x": -0.11,
+        "y": 0.38
+    },
+    "Ornn/Ornn_05.png": {
+        "scale": 0.65,
+        "x": -0.11,
+        "y": 0.38
+    },
+    "Ornn/Ornn_06.png": {
+        "scale": 0.65,
+        "x": -0.11,
+        "y": 0.38
+    },
+    "Ornn/Ornn_07.png": {
+        "scale": 0.65,
+        "x": -0.11,
+        "y": 0.38
+    },
+    "Ornn/Ornn_08.png": {
+        "scale": 0.65,
+        "x": -0.11,
+        "y": 0.38
+    },
+    "Ornn/Ornn_09.png": {
+        "scale": 0.65,
+        "x": -0.11,
+        "y": 0.38
+    },
+    "Poppy/Poppy_01.png": {
+        "scale": 0.56,
+        "x": 0.13,
+        "y": 0.39
+    },
+    "Poppy/Poppy_02.png": {
+        "scale": 0.6,
+        "x": 0.13,
+        "y": 0.39
+    },
+    "Poppy/Poppy_03.png": {
+        "scale": 0.35,
+        "x": 0.13,
+        "y": 0.39
+    },
+    "Poppy/Poppy_04.png": {
+        "scale": 0.56,
+        "x": -0.08,
+        "y": 0.5
+    },
+    "Poppy/Poppy_05.png": {
+        "scale": 0.56,
+        "x": 0.13,
+        "y": 0.39
+    },
+    "Poppy/Poppy_06.png": {
+        "scale": 0.56,
+        "x": 0.13,
+        "y": 0.39
+    },
+    "Poppy/Poppy_07.png": {
+        "scale": 0.43,
+        "x": 0.13,
+        "y": 0.39
+    },
+    "Poppy/Poppy_08.png": {
+        "scale": 0.38,
+        "x": 0.13,
+        "y": 0.39
+    },
+    "Poppy/Poppy_09.png": {
+        "scale": 0.35,
+        "x": 0.13,
+        "y": 0.39
+    },
+    "Qiyana/Qiyana_01.png": {
+        "scale": 0.4,
+        "x": 0.21,
+        "y": 0.33
+    },
+    "Qiyana/Qiyana_02.png": {
+        "scale": 0.4,
+        "x": 0.21,
+        "y": 0.33
+    },
+    "Qiyana/Qiyana_03.png": {
+        "scale": 0.4,
+        "x": 0.21,
+        "y": 0.33
+    },
+    "Qiyana/Qiyana_04.png": {
+        "scale": 0.4,
+        "x": 0.21,
+        "y": 0.33
+    },
+    "Qiyana/Qiyana_05.png": {
+        "scale": 0.4,
+        "x": 0.21,
+        "y": 0.33
+    },
+    "Qiyana/Qiyana_06.png": {
+        "scale": 0.4,
+        "x": 0.21,
+        "y": 0.33
+    },
+    "Qiyana/Qiyana_07.png": {
+        "scale": 0.4,
+        "x": 0.21,
+        "y": 0.33
+    },
+    "Qiyana/Qiyana_08.png": {
+        "scale": 0.4,
+        "x": 0.21,
+        "y": 0.33
+    },
+    "Qiyana/Qiyana_09.png": {
+        "scale": 0.4,
+        "x": 0.21,
+        "y": 0.33
+    },
+    "RekSai/RekSai_01.png": {
+        "scale": 0.4,
+        "x": 0.13,
+        "y": 0.43
+    },
+    "RekSai/RekSai_02.png": {
+        "scale": 0.4,
+        "x": 0.13,
+        "y": 0.43
+    },
+    "RekSai/RekSai_03.png": {
+        "scale": 0.4,
+        "x": 0.13,
+        "y": 0.43
+    },
+    "RekSai/RekSai_04.png": {
+        "scale": 0.4,
+        "x": 0.13,
+        "y": 0.43
+    },
+    "RekSai/RekSai_05.png": {
+        "scale": 0.4,
+        "x": 0.13,
+        "y": 0.43
+    },
+    "RekSai/RekSai_06.png": {
+        "scale": 0.4,
+        "x": 0.13,
+        "y": 0.43
+    },
+    "RekSai/RekSai_07.png": {
+        "scale": 0.4,
+        "x": 0.13,
+        "y": 0.43
+    },
+    "RekSai/RekSai_08.png": {
+        "scale": 0.4,
+        "x": 0.13,
+        "y": 0.43
+    },
+    "RekSai/RekSai_09.png": {
+        "scale": 0.4,
+        "x": 0.13,
+        "y": 0.43
+    },
+    "Renekton/Renekton_01.png": {
+        "scale": 0.51,
+        "x": 0.0,
+        "y": 0.48
+    },
+    "Renekton/Renekton_02.png": {
+        "scale": 0.51,
+        "x": 0.0,
+        "y": 0.48
+    },
+    "Renekton/Renekton_03.png": {
+        "scale": 0.51,
+        "x": 0.0,
+        "y": 0.48
+    },
+    "Renekton/Renekton_04.png": {
+        "scale": 0.51,
+        "x": 0.0,
+        "y": 0.48
+    },
+    "Renekton/Renekton_05.png": {
+        "scale": 0.51,
+        "x": 0.0,
+        "y": 0.48
+    },
+    "Renekton/Renekton_06.png": {
+        "scale": 0.39,
+        "x": 0.0,
+        "y": 0.48
+    },
+    "Renekton/Renekton_07.png": {
+        "scale": 0.51,
+        "x": 0.0,
+        "y": 0.48
+    },
+    "Renekton/Renekton_08.png": {
+        "scale": 0.51,
+        "x": 0.0,
+        "y": 0.48
+    },
+    "Renekton/Renekton_09.png": {
+        "scale": 0.51,
+        "x": 0.0,
+        "y": 0.48
+    },
+    "RiftHerald/RiftHerald_01.png": {
+        "scale": 0.73,
+        "x": -0.02,
+        "y": 0.43
+    },
+    "RiftHerald/RiftHerald_02.png": {
+        "scale": 0.73,
+        "x": -0.02,
+        "y": 0.43
+    },
+    "RiftHerald/RiftHerald_03.png": {
+        "scale": 0.73,
+        "x": -0.02,
+        "y": 0.43
+    },
+    "RiftHerald/RiftHerald_04.png": {
+        "scale": 0.73,
+        "x": -0.02,
+        "y": 0.43
+    },
+    "RiftHerald/RiftHerald_05.png": {
+        "scale": 0.73,
+        "x": -0.02,
+        "y": 0.43
+    },
+    "RiftHerald/RiftHerald_06.png": {
+        "scale": 0.73,
+        "x": -0.02,
+        "y": 0.43
+    },
+    "RiftHerald/RiftHerald_07.png": {
+        "scale": 0.73,
+        "x": -0.02,
+        "y": 0.43
+    },
+    "RiftHerald/RiftHerald_08.png": {
+        "scale": 0.73,
+        "x": -0.02,
+        "y": 0.43
+    },
+    "RiftHerald/RiftHerald_09.png": {
+        "scale": 0.73,
+        "x": -0.02,
+        "y": 0.43
+    },
+    "Rumble/Rumble_01.png": {
+        "scale": 0.66,
+        "x": -0.07,
+        "y": 0.37
+    },
+    "Rumble/Rumble_02.png": {
+        "scale": 0.66,
+        "x": -0.07,
+        "y": 0.37
+    },
+    "Rumble/Rumble_03.png": {
+        "scale": 0.66,
+        "x": -0.07,
+        "y": 0.37
+    },
+    "Rumble/Rumble_04.png": {
+        "scale": 0.56,
+        "x": -0.07,
+        "y": 0.37
+    },
+    "Rumble/Rumble_05.png": {
+        "scale": 0.45,
+        "x": 0.05,
+        "y": 0.37
+    },
+    "Rumble/Rumble_06.png": {
+        "scale": 0.5,
+        "x": -0.07,
+        "y": 0.37
+    },
+    "Rumble/Rumble_07.png": {
+        "scale": 0.66,
+        "x": 0.08,
+        "y": 0.37
+    },
+    "Rumble/Rumble_08.png": {
+        "scale": 0.66,
+        "x": 0.02,
+        "y": 0.37
+    },
+    "Rumble/Rumble_09.png": {
+        "scale": 0.66,
+        "x": 0.04,
+        "y": 0.37
+    },
+    "Ryze/Ryze_01.png": {
+        "scale": 0.69,
+        "x": 0.11,
+        "y": 0.32
+    },
+    "Ryze/Ryze_02.png": {
+        "scale": 0.69,
+        "x": 0.11,
+        "y": 0.32
+    },
+    "Ryze/Ryze_03.png": {
+        "scale": 0.69,
+        "x": 0.11,
+        "y": 0.32
+    },
+    "Ryze/Ryze_04.png": {
+        "scale": 0.69,
+        "x": 0.11,
+        "y": 0.32
+    },
+    "Ryze/Ryze_05.png": {
+        "scale": 0.69,
+        "x": 0.11,
+        "y": 0.32
+    },
+    "Ryze/Ryze_06.png": {
+        "scale": 0.69,
+        "x": 0.11,
+        "y": 0.32
+    },
+    "Ryze/Ryze_07.png": {
+        "scale": 0.69,
+        "x": 0.11,
+        "y": 0.32
+    },
+    "Ryze/Ryze_08.png": {
+        "scale": 0.69,
+        "x": 0.11,
+        "y": 0.32
+    },
+    "Ryze/Ryze_09.png": {
+        "scale": 0.69,
+        "x": 0.11,
+        "y": 0.32
+    },
+    "Seena/Seena_01.png": {
+        "scale": 0.59,
+        "x": 0.11,
+        "y": 0.27
+    },
+    "Seena/Seena_02.png": {
+        "scale": 0.59,
+        "x": 0.11,
+        "y": 0.27
+    },
+    "Seena/Seena_03.png": {
+        "scale": 0.59,
+        "x": 0.11,
+        "y": 0.27
+    },
+    "Seena/Seena_04.png": {
+        "scale": 0.59,
+        "x": 0.11,
+        "y": 0.27
+    },
+    "Seena/Seena_05.png": {
+        "scale": 0.4,
+        "x": -0.11,
+        "y": 0.27
+    },
+    "Seena/Seena_06.png": {
+        "scale": 0.59,
+        "x": -0.17,
+        "y": 0.27
+    },
+    "Seena/Seena_07.png": {
+        "scale": 0.59,
+        "x": 0.11,
+        "y": 0.27
+    },
+    "Seena/Seena_08.png": {
+        "scale": 0.59,
+        "x": 0.11,
+        "y": 0.27
+    },
+    "Seena/Seena_09.png": {
+        "scale": 0.59,
+        "x": 0.11,
+        "y": 0.27
+    },
+    "Sejuani/Sejuani_01.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.45
+    },
+    "Sejuani/Sejuani_02.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.45
+    },
+    "Sejuani/Sejuani_03.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.45
+    },
+    "Sejuani/Sejuani_04.png": {
+        "scale": 0.93,
+        "x": 0.06,
+        "y": 0.5
+    },
+    "Sejuani/Sejuani_05.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.45
+    },
+    "Sejuani/Sejuani_06.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.45
+    },
+    "Sejuani/Sejuani_07.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.45
+    },
+    "Sejuani/Sejuani_08.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.45
+    },
+    "Sejuani/Sejuani_09.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.45
+    },
+    "Seraphine/Seraphine_01.png": {
+        "scale": 0.58,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Seraphine/Seraphine_02.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Seraphine/Seraphine_03.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Seraphine/Seraphine_04.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Seraphine/Seraphine_05.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Seraphine/Seraphine_06.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Seraphine/Seraphine_07.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Seraphine/Seraphine_08.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Seraphine/Seraphine_09.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Sett/Sett_01.png": {
+        "scale": 0.62,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Sett/Sett_02.png": {
+        "scale": 0.62,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Sett/Sett_03.png": {
+        "scale": 0.62,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Sett/Sett_04.png": {
+        "scale": 0.62,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Sett/Sett_05.png": {
+        "scale": 0.62,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Sett/Sett_06.png": {
+        "scale": 0.62,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Sett/Sett_07.png": {
+        "scale": 0.62,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Sett/Sett_08.png": {
+        "scale": 0.62,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Sett/Sett_09.png": {
+        "scale": 0.62,
+        "x": 0.0,
+        "y": 0.41
+    },
+    "Shen/Shen_01.png": {
+        "scale": 0.6,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Shen/Shen_02.png": {
+        "scale": 0.6,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Shen/Shen_03.png": {
+        "scale": 0.6,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Shen/Shen_04.png": {
+        "scale": 0.6,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Shen/Shen_05.png": {
+        "scale": 0.6,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Shen/Shen_06.png": {
+        "scale": 0.6,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Shen/Shen_07.png": {
+        "scale": 0.6,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Shen/Shen_08.png": {
+        "scale": 0.6,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Shen/Shen_09.png": {
+        "scale": 0.6,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Shyvana/Shyvana_01.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Shyvana/Shyvana_02.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Shyvana/Shyvana_03.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Shyvana/Shyvana_04.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Shyvana/Shyvana_05.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Shyvana/Shyvana_06.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Shyvana/Shyvana_07.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Shyvana/Shyvana_08.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Shyvana/Shyvana_09.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Singed/Singed_01.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.35
+    },
+    "Singed/Singed_02.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.35
+    },
+    "Singed/Singed_03.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.35
+    },
+    "Singed/Singed_04.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.35
+    },
+    "Singed/Singed_05.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.35
+    },
+    "Singed/Singed_06.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.35
+    },
+    "Singed/Singed_07.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.35
+    },
+    "Singed/Singed_08.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.35
+    },
+    "Singed/Singed_09.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.35
+    },
+    "Sion/Sion_01.png": {
+        "scale": 0.66,
+        "x": 0.0,
+        "y": 0.34
+    },
+    "Sion/Sion_02.png": {
+        "scale": 0.66,
+        "x": 0.0,
+        "y": 0.34
+    },
+    "Sion/Sion_03.png": {
+        "scale": 0.66,
+        "x": 0.0,
+        "y": 0.34
+    },
+    "Sion/Sion_04.png": {
+        "scale": 0.66,
+        "x": 0.0,
+        "y": 0.34
+    },
+    "Sion/Sion_05.png": {
+        "scale": 0.66,
+        "x": 0.0,
+        "y": 0.34
+    },
+    "Sion/Sion_06.png": {
+        "scale": 0.66,
+        "x": 0.0,
+        "y": 0.34
+    },
+    "Sion/Sion_07.png": {
+        "scale": 0.66,
+        "x": 0.0,
+        "y": 0.34
+    },
+    "Sion/Sion_08.png": {
+        "scale": 0.66,
+        "x": 0.0,
+        "y": 0.34
+    },
+    "Sion/Sion_09.png": {
+        "scale": 0.66,
+        "x": 0.0,
+        "y": 0.34
+    },
+    "Skarner/Skarner_01.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Skarner/Skarner_02.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Skarner/Skarner_03.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Skarner/Skarner_04.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Skarner/Skarner_05.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Skarner/Skarner_06.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Skarner/Skarner_07.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Skarner/Skarner_08.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Skarner/Skarner_09.png": {
+        "scale": 0.69,
+        "x": 0.0,
+        "y": 0.15
+    },
+    "Sona/Sona_01.png": {
+        "scale": 0.62,
+        "x": 0.14,
+        "y": 0.31
+    },
+    "Sona/Sona_02.png": {
+        "scale": 0.62,
+        "x": 0.14,
+        "y": 0.31
+    },
+    "Sona/Sona_03.png": {
+        "scale": 0.62,
+        "x": 0.14,
+        "y": 0.31
+    },
+    "Sona/Sona_04.png": {
+        "scale": 0.62,
+        "x": 0.14,
+        "y": 0.31
+    },
+    "Sona/Sona_05.png": {
+        "scale": 0.62,
+        "x": 0.0,
+        "y": 0.31
+    },
+    "Sona/Sona_06.png": {
+        "scale": 0.62,
+        "x": -0.03,
+        "y": 0.31
+    },
+    "Sona/Sona_07.png": {
+        "scale": 0.62,
+        "x": -0.06,
+        "y": 0.31
+    },
+    "Sona/Sona_08.png": {
+        "scale": 0.62,
+        "x": 0.06,
+        "y": 0.31
+    },
+    "Sona/Sona_09.png": {
+        "scale": 0.62,
+        "x": 0.14,
+        "y": 0.31
+    },
+    "Swain/Swain_01.png": {
+        "scale": 0.75,
+        "x": 0.28,
+        "y": 0.36
+    },
+    "Swain/Swain_02.png": {
+        "scale": 0.75,
+        "x": 0.28,
+        "y": 0.36
+    },
+    "Swain/Swain_03.png": {
+        "scale": 0.75,
+        "x": 0.28,
+        "y": 0.36
+    },
+    "Swain/Swain_04.png": {
+        "scale": 0.55,
+        "x": -0.04,
+        "y": 0.36
+    },
+    "Swain/Swain_05.png": {
+        "scale": 0.75,
+        "x": -0.15,
+        "y": 0.36
+    },
+    "Swain/Swain_06.png": {
+        "scale": 0.75,
+        "x": -0.2,
+        "y": 0.36
+    },
+    "Swain/Swain_07.png": {
+        "scale": 0.75,
+        "x": -0.11,
+        "y": 0.36
+    },
+    "Swain/Swain_08.png": {
+        "scale": 0.75,
+        "x": 0.12,
+        "y": 0.36
+    },
+    "Swain/Swain_09.png": {
+        "scale": 0.75,
+        "x": 0.1,
+        "y": 0.36
+    },
+    "Sylas/Sylas_01.png": {
+        "scale": 0.57,
+        "x": 0.14,
+        "y": 0.3
+    },
+    "Sylas/Sylas_02.png": {
+        "scale": 0.56,
+        "x": 0.14,
+        "y": 0.3
+    },
+    "Sylas/Sylas_03.png": {
+        "scale": 0.56,
+        "x": 0.14,
+        "y": 0.3
+    },
+    "Sylas/Sylas_04.png": {
+        "scale": 0.56,
+        "x": 0.14,
+        "y": 0.3
+    },
+    "Sylas/Sylas_05.png": {
+        "scale": 0.56,
+        "x": 0.14,
+        "y": 0.3
+    },
+    "Sylas/Sylas_06.png": {
+        "scale": 0.56,
+        "x": 0.14,
+        "y": 0.3
+    },
+    "Sylas/Sylas_07.png": {
+        "scale": 0.56,
+        "x": 0.14,
+        "y": 0.3
+    },
+    "Sylas/Sylas_08.png": {
+        "scale": 0.56,
+        "x": 0.14,
+        "y": 0.3
+    },
+    "Sylas/Sylas_09.png": {
+        "scale": 0.56,
+        "x": 0.14,
+        "y": 0.3
+    },
+    "THex/THex_01.png": {
+        "scale": 1.0,
+        "x": 0.0,
+        "y": 0.5
+    },
+    "THex/THex_02.png": {
+        "scale": 1.0,
+        "x": 0.0,
+        "y": 0.5
+    },
+    "THex/THex_03.png": {
+        "scale": 1.0,
+        "x": 0.0,
+        "y": 0.5
+    },
+    "THex/THex_04.png": {
+        "scale": 1.0,
+        "x": 0.0,
+        "y": 0.5
+    },
+    "THex/THex_05.png": {
+        "scale": 1.0,
+        "x": 0.0,
+        "y": 0.5
+    },
+    "THex/THex_06.png": {
+        "scale": 1.0,
+        "x": 0.0,
+        "y": 0.5
+    },
+    "THex/THex_07.png": {
+        "scale": 1.0,
+        "x": 0.0,
+        "y": 0.5
+    },
+    "THex/THex_08.png": {
+        "scale": 1.0,
+        "x": 0.0,
+        "y": 0.5
+    },
+    "THex/THex_09.png": {
+        "scale": 1.0,
+        "x": 0.0,
+        "y": 0.5
+    },
+    "TahmKench/TahmKench_01.png": {
+        "scale": 0.58,
+        "x": 0.0,
+        "y": 0.5
+    },
+    "TahmKench/TahmKench_02.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.5
+    },
+    "TahmKench/TahmKench_03.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.5
+    },
+    "TahmKench/TahmKench_04.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.5
+    },
+    "TahmKench/TahmKench_05.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.5
+    },
+    "TahmKench/TahmKench_06.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.5
+    },
+    "TahmKench/TahmKench_07.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.5
+    },
+    "TahmKench/TahmKench_08.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.5
+    },
+    "TahmKench/TahmKench_09.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.5
+    },
+    "Taric/Taric_01.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.43
+    },
+    "Taric/Taric_02.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.43
+    },
+    "Taric/Taric_03.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.43
+    },
+    "Taric/Taric_04.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.43
+    },
+    "Taric/Taric_05.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.43
+    },
+    "Taric/Taric_06.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.43
+    },
+    "Taric/Taric_07.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.43
+    },
+    "Taric/Taric_08.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.43
+    },
+    "Taric/Taric_09.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.43
+    },
+    "Teemo/Teemo_01.png": {
+        "scale": 0.53,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "Teemo/Teemo_02.png": {
+        "scale": 0.53,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "Teemo/Teemo_03.png": {
+        "scale": 0.38,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "Teemo/Teemo_04.png": {
+        "scale": 0.33,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "Teemo/Teemo_05.png": {
+        "scale": 0.32,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "Teemo/Teemo_06.png": {
+        "scale": 0.53,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "Teemo/Teemo_07.png": {
+        "scale": 0.53,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "Teemo/Teemo_08.png": {
+        "scale": 0.53,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "Teemo/Teemo_09.png": {
+        "scale": 0.53,
+        "x": 0.11,
+        "y": 0.37
+    },
+    "Thresh/Thresh_01.png": {
+        "scale": 0.63,
+        "x": 0.0,
+        "y": 0.35
+    },
+    "Thresh/Thresh_02.png": {
+        "scale": 0.49,
+        "x": 0.0,
+        "y": 0.35
+    },
+    "Thresh/Thresh_03.png": {
+        "scale": 0.63,
+        "x": 0.0,
+        "y": 0.35
+    },
+    "Thresh/Thresh_04.png": {
+        "scale": 0.63,
+        "x": 0.0,
+        "y": 0.35
+    },
+    "Thresh/Thresh_05.png": {
+        "scale": 0.63,
+        "x": 0.0,
+        "y": 0.35
+    },
+    "Thresh/Thresh_06.png": {
+        "scale": 0.63,
+        "x": 0.0,
+        "y": 0.35
+    },
+    "Thresh/Thresh_07.png": {
+        "scale": 0.63,
+        "x": 0.0,
+        "y": 0.35
+    },
+    "Thresh/Thresh_08.png": {
+        "scale": 0.63,
+        "x": 0.0,
+        "y": 0.35
+    },
+    "Thresh/Thresh_09.png": {
+        "scale": 0.63,
+        "x": 0.0,
+        "y": 0.35
+    },
+    "Tibbers/Tibbers_01.png": {
+        "scale": 0.61,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Tibbers/Tibbers_02.png": {
+        "scale": 0.61,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Tibbers/Tibbers_03.png": {
+        "scale": 0.61,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Tibbers/Tibbers_04.png": {
+        "scale": 0.61,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Tibbers/Tibbers_05.png": {
+        "scale": 0.61,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Tibbers/Tibbers_06.png": {
+        "scale": 0.61,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Tibbers/Tibbers_07.png": {
+        "scale": 0.61,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Tibbers/Tibbers_08.png": {
+        "scale": 0.61,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Tibbers/Tibbers_09.png": {
+        "scale": 0.61,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Tristana/Tristana_01.png": {
+        "scale": 0.49,
+        "x": 0.0,
+        "y": 0.33
+    },
+    "Tristana/Tristana_02.png": {
+        "scale": 0.49,
+        "x": 0.0,
+        "y": 0.33
+    },
+    "Tristana/Tristana_03.png": {
+        "scale": 0.49,
+        "x": 0.0,
+        "y": 0.33
+    },
+    "Tristana/Tristana_04.png": {
+        "scale": 0.49,
+        "x": 0.0,
+        "y": 0.33
+    },
+    "Tristana/Tristana_05.png": {
+        "scale": 0.49,
+        "x": 0.0,
+        "y": 0.33
+    },
+    "Tristana/Tristana_06.png": {
+        "scale": 0.49,
+        "x": 0.0,
+        "y": 0.33
+    },
+    "Tristana/Tristana_07.png": {
+        "scale": 0.49,
+        "x": 0.0,
+        "y": 0.33
+    },
+    "Tristana/Tristana_08.png": {
+        "scale": 0.49,
+        "x": 0.0,
+        "y": 0.33
+    },
+    "Tristana/Tristana_09.png": {
+        "scale": 0.49,
+        "x": 0.0,
+        "y": 0.33
+    },
+    "Tryndamere/Tryndamere_01.png": {
+        "scale": 0.62,
+        "x": 0.17,
+        "y": 0.39
+    },
+    "Tryndamere/Tryndamere_02.png": {
+        "scale": 0.45,
+        "x": 0.29,
+        "y": 0.39
+    },
+    "Tryndamere/Tryndamere_03.png": {
+        "scale": 0.62,
+        "x": 0.17,
+        "y": 0.5
+    },
+    "Tryndamere/Tryndamere_04.png": {
+        "scale": 0.62,
+        "x": -0.03,
+        "y": 0.39
+    },
+    "Tryndamere/Tryndamere_05.png": {
+        "scale": 0.35,
+        "x": -0.24,
+        "y": 0.39
+    },
+    "Tryndamere/Tryndamere_06.png": {
+        "scale": 0.62,
+        "x": -0.08,
+        "y": 0.39
+    },
+    "Tryndamere/Tryndamere_07.png": {
+        "scale": 0.62,
+        "x": 0.17,
+        "y": 0.39
+    },
+    "Tryndamere/Tryndamere_08.png": {
+        "scale": 0.62,
+        "x": 0.17,
+        "y": 0.39
+    },
+    "Tryndamere/Tryndamere_09.png": {
+        "scale": 0.62,
+        "x": 0.17,
+        "y": 0.39
+    },
+    "TwistedFate/TwistedFate_01.png": {
+        "scale": 0.53,
+        "x": 0.0,
+        "y": 0.38
+    },
+    "TwistedFate/TwistedFate_02.png": {
+        "scale": 0.53,
+        "x": 0.0,
+        "y": 0.38
+    },
+    "TwistedFate/TwistedFate_03.png": {
+        "scale": 0.53,
+        "x": 0.0,
+        "y": 0.38
+    },
+    "TwistedFate/TwistedFate_04.png": {
+        "scale": 0.53,
+        "x": 0.0,
+        "y": 0.38
+    },
+    "TwistedFate/TwistedFate_05.png": {
+        "scale": 0.53,
+        "x": 0.0,
+        "y": 0.38
+    },
+    "TwistedFate/TwistedFate_06.png": {
+        "scale": 0.53,
+        "x": 0.0,
+        "y": 0.38
+    },
+    "TwistedFate/TwistedFate_07.png": {
+        "scale": 0.53,
+        "x": 0.0,
+        "y": 0.38
+    },
+    "TwistedFate/TwistedFate_08.png": {
+        "scale": 0.53,
+        "x": 0.0,
+        "y": 0.38
+    },
+    "TwistedFate/TwistedFate_09.png": {
+        "scale": 0.53,
+        "x": 0.0,
+        "y": 0.38
+    },
+    "Vayne/Vayne_01.png": {
+        "scale": 0.67,
+        "x": 0.28,
+        "y": 0.33
+    },
+    "Vayne/Vayne_02.png": {
+        "scale": 0.67,
+        "x": 0.28,
+        "y": 0.33
+    },
+    "Vayne/Vayne_03.png": {
+        "scale": 0.67,
+        "x": 0.28,
+        "y": 0.33
+    },
+    "Vayne/Vayne_04.png": {
+        "scale": 0.67,
+        "x": 0.28,
+        "y": 0.33
+    },
+    "Vayne/Vayne_05.png": {
+        "scale": 0.67,
+        "x": 0.28,
+        "y": 0.33
+    },
+    "Vayne/Vayne_06.png": {
+        "scale": 0.67,
+        "x": 0.28,
+        "y": 0.33
+    },
+    "Vayne/Vayne_07.png": {
+        "scale": 0.67,
+        "x": 0.28,
+        "y": 0.33
+    },
+    "Vayne/Vayne_08.png": {
+        "scale": 0.67,
+        "x": 0.28,
+        "y": 0.33
+    },
+    "Vayne/Vayne_09.png": {
+        "scale": 0.67,
+        "x": 0.28,
+        "y": 0.33
+    },
+    "Veigar/Veigar_01.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Veigar/Veigar_02.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Veigar/Veigar_03.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Veigar/Veigar_04.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Veigar/Veigar_05.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Veigar/Veigar_06.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Veigar/Veigar_07.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Veigar/Veigar_08.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Veigar/Veigar_09.png": {
+        "scale": 0.45,
+        "x": 0.0,
+        "y": 0.29
+    },
+    "Vi/Vi_01.png": {
+        "scale": 0.61,
+        "x": 0.0,
+        "y": 0.31
+    },
+    "Vi/Vi_02.png": {
+        "scale": 0.61,
+        "x": 0.0,
+        "y": 0.31
+    },
+    "Vi/Vi_03.png": {
+        "scale": 0.61,
+        "x": 0.0,
+        "y": 0.31
+    },
+    "Vi/Vi_04.png": {
+        "scale": 0.61,
+        "x": 0.0,
+        "y": 0.31
+    },
+    "Vi/Vi_05.png": {
+        "scale": 0.61,
+        "x": 0.0,
+        "y": 0.31
+    },
+    "Vi/Vi_06.png": {
+        "scale": 0.61,
+        "x": 0.0,
+        "y": 0.31
+    },
+    "Vi/Vi_07.png": {
+        "scale": 0.61,
+        "x": 0.0,
+        "y": 0.31
+    },
+    "Vi/Vi_08.png": {
+        "scale": 0.61,
+        "x": 0.0,
+        "y": 0.31
+    },
+    "Vi/Vi_09.png": {
+        "scale": 0.61,
+        "x": 0.0,
+        "y": 0.31
+    },
+    "Viego/Viego_01.png": {
+        "scale": 0.71,
+        "x": 0.14,
+        "y": 0.29
+    },
+    "Viego/Viego_02.png": {
+        "scale": 0.71,
+        "x": 0.14,
+        "y": 0.29
+    },
+    "Viego/Viego_03.png": {
+        "scale": 0.71,
+        "x": 0.14,
+        "y": 0.29
+    },
+    "Viego/Viego_04.png": {
+        "scale": 0.63,
+        "x": -0.02,
+        "y": 0.29
+    },
+    "Viego/Viego_05.png": {
+        "scale": 0.71,
+        "x": -0.06,
+        "y": 0.29
+    },
+    "Viego/Viego_06.png": {
+        "scale": 0.71,
+        "x": 0.14,
+        "y": 0.29
+    },
+    "Viego/Viego_07.png": {
+        "scale": 0.71,
+        "x": 0.14,
+        "y": 0.29
+    },
+    "Viego/Viego_08.png": {
+        "scale": 0.71,
+        "x": 0.14,
+        "y": 0.29
+    },
+    "Viego/Viego_09.png": {
+        "scale": 0.71,
+        "x": 0.14,
+        "y": 0.29
+    },
+    "Volibear/Volibear_01.png": {
+        "scale": 0.65,
+        "x": 0.0,
+        "y": 0.27
+    },
+    "Volibear/Volibear_02.png": {
+        "scale": 0.65,
+        "x": 0.0,
+        "y": 0.27
+    },
+    "Volibear/Volibear_03.png": {
+        "scale": 0.65,
+        "x": 0.0,
+        "y": 0.27
+    },
+    "Volibear/Volibear_04.png": {
+        "scale": 0.65,
+        "x": 0.0,
+        "y": 0.27
+    },
+    "Volibear/Volibear_05.png": {
+        "scale": 0.65,
+        "x": 0.0,
+        "y": 0.27
+    },
+    "Volibear/Volibear_06.png": {
+        "scale": 0.65,
+        "x": 0.0,
+        "y": 0.27
+    },
+    "Volibear/Volibear_07.png": {
+        "scale": 0.65,
+        "x": 0.0,
+        "y": 0.27
+    },
+    "Volibear/Volibear_08.png": {
+        "scale": 0.65,
+        "x": 0.0,
+        "y": 0.27
+    },
+    "Volibear/Volibear_09.png": {
+        "scale": 0.65,
+        "x": 0.0,
+        "y": 0.27
+    },
+    "Warwick/Warwick_01.png": {
+        "scale": 0.72,
+        "x": 0.14,
+        "y": 0.34
+    },
+    "Warwick/Warwick_02.png": {
+        "scale": 0.72,
+        "x": 0.14,
+        "y": 0.34
+    },
+    "Warwick/Warwick_03.png": {
+        "scale": 0.72,
+        "x": 0.14,
+        "y": 0.48
+    },
+    "Warwick/Warwick_04.png": {
+        "scale": 0.72,
+        "x": 0.14,
+        "y": 0.5
+    },
+    "Warwick/Warwick_05.png": {
+        "scale": 0.72,
+        "x": -0.05,
+        "y": 0.34
+    },
+    "Warwick/Warwick_06.png": {
+        "scale": 0.72,
+        "x": -0.12,
+        "y": 0.34
+    },
+    "Warwick/Warwick_07.png": {
+        "scale": 0.72,
+        "x": -0.06,
+        "y": 0.34
+    },
+    "Warwick/Warwick_08.png": {
+        "scale": 0.72,
+        "x": 0.14,
+        "y": 0.34
+    },
+    "Warwick/Warwick_09.png": {
+        "scale": 0.72,
+        "x": 0.14,
+        "y": 0.34
+    },
+    "Wukong/Wukong_01.png": {
+        "scale": 0.58,
+        "x": 0.0,
+        "y": 0.33
+    },
+    "Wukong/Wukong_02.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.33
+    },
+    "Wukong/Wukong_03.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.33
+    },
+    "Wukong/Wukong_04.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.33
+    },
+    "Wukong/Wukong_05.png": {
+        "scale": 0.56,
+        "x": 0.0,
+        "y": 0.33
+    },
+    "Wukong/Wukong_06.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.33
+    },
+    "Wukong/Wukong_07.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.33
+    },
+    "Wukong/Wukong_08.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.33
+    },
+    "Wukong/Wukong_09.png": {
+        "scale": 0.57,
+        "x": 0.0,
+        "y": 0.33
+    },
+    "Xerath/Xerath_01.png": {
+        "scale": 0.47,
+        "x": 0.0,
+        "y": 0.25
+    },
+    "Xerath/Xerath_02.png": {
+        "scale": 0.47,
+        "x": 0.0,
+        "y": 0.25
+    },
+    "Xerath/Xerath_03.png": {
+        "scale": 0.47,
+        "x": 0.0,
+        "y": 0.25
+    },
+    "Xerath/Xerath_04.png": {
+        "scale": 0.47,
+        "x": 0.0,
+        "y": 0.25
+    },
+    "Xerath/Xerath_05.png": {
+        "scale": 0.47,
+        "x": 0.0,
+        "y": 0.25
+    },
+    "Xerath/Xerath_06.png": {
+        "scale": 0.47,
+        "x": 0.0,
+        "y": 0.25
+    },
+    "Xerath/Xerath_07.png": {
+        "scale": 0.47,
+        "x": 0.0,
+        "y": 0.25
+    },
+    "Xerath/Xerath_08.png": {
+        "scale": 0.47,
+        "x": 0.0,
+        "y": 0.25
+    },
+    "Xerath/Xerath_09.png": {
+        "scale": 0.47,
+        "x": 0.0,
+        "y": 0.25
+    },
+    "XinZhao/XinZhao_01.png": {
+        "scale": 0.71,
+        "x": 0.2,
+        "y": 0.32
+    },
+    "XinZhao/XinZhao_02.png": {
+        "scale": 0.71,
+        "x": 0.2,
+        "y": 0.32
+    },
+    "XinZhao/XinZhao_03.png": {
+        "scale": 0.71,
+        "x": 0.2,
+        "y": 0.32
+    },
+    "XinZhao/XinZhao_04.png": {
+        "scale": 0.71,
+        "x": 0.2,
+        "y": 0.32
+    },
+    "XinZhao/XinZhao_05.png": {
+        "scale": 0.71,
+        "x": 0.2,
+        "y": 0.32
+    },
+    "XinZhao/XinZhao_06.png": {
+        "scale": 0.71,
+        "x": -0.1,
+        "y": 0.32
+    },
+    "XinZhao/XinZhao_07.png": {
+        "scale": 0.71,
+        "x": -0.13,
+        "y": 0.32
+    },
+    "XinZhao/XinZhao_08.png": {
+        "scale": 0.71,
+        "x": -0.11,
+        "y": 0.32
+    },
+    "XinZhao/XinZhao_09.png": {
+        "scale": 0.71,
+        "x": 0.0,
+        "y": 0.32
+    },
+    "Yasuo/Yasuo_01.png": {
+        "scale": 0.59,
+        "x": 0.0,
+        "y": 0.3
+    },
+    "Yasuo/Yasuo_02.png": {
+        "scale": 0.59,
+        "x": 0.22,
+        "y": 0.3
+    },
+    "Yasuo/Yasuo_03.png": {
+        "scale": 0.59,
+        "x": 0.0,
+        "y": 0.3
+    },
+    "Yasuo/Yasuo_04.png": {
+        "scale": 0.59,
+        "x": 0.0,
+        "y": 0.3
+    },
+    "Yasuo/Yasuo_05.png": {
+        "scale": 0.59,
+        "x": -0.12,
+        "y": 0.3
+    },
+    "Yasuo/Yasuo_06.png": {
+        "scale": 0.59,
+        "x": -0.15,
+        "y": 0.3
+    },
+    "Yasuo/Yasuo_07.png": {
+        "scale": 0.59,
+        "x": 0.0,
+        "y": 0.3
+    },
+    "Yasuo/Yasuo_08.png": {
+        "scale": 0.59,
+        "x": 0.0,
+        "y": 0.3
+    },
+    "Yasuo/Yasuo_09.png": {
+        "scale": 0.59,
+        "x": 0.0,
+        "y": 0.3
+    },
+    "Yone/Yone_01.png": {
+        "scale": 0.75,
+        "x": 0.11,
+        "y": 0.45
+    },
+    "Yone/Yone_02.png": {
+        "scale": 0.75,
+        "x": -0.07,
+        "y": 0.45
+    },
+    "Yone/Yone_03.png": {
+        "scale": 0.75,
+        "x": -0.09,
+        "y": 0.45
+    },
+    "Yone/Yone_04.png": {
+        "scale": 0.57,
+        "x": -0.09,
+        "y": 0.45
+    },
+    "Yone/Yone_05.png": {
+        "scale": 0.75,
+        "x": 0.11,
+        "y": 0.45
+    },
+    "Yone/Yone_06.png": {
+        "scale": 0.75,
+        "x": 0.11,
+        "y": 0.45
+    },
+    "Yone/Yone_07.png": {
+        "scale": 0.75,
+        "x": 0.11,
+        "y": 0.45
+    },
+    "Yone/Yone_08.png": {
+        "scale": 0.75,
+        "x": 0.0,
+        "y": 0.45
+    },
+    "Yone/Yone_09.png": {
+        "scale": 0.75,
+        "x": 0.11,
+        "y": 0.45
+    },
+    "Yorick/Yorick_01.png": {
+        "scale": 0.77,
+        "x": 0.0,
+        "y": 0.22
+    },
+    "Yorick/Yorick_02.png": {
+        "scale": 0.77,
+        "x": 0.0,
+        "y": 0.22
+    },
+    "Yorick/Yorick_03.png": {
+        "scale": 0.77,
+        "x": 0.0,
+        "y": 0.22
+    },
+    "Yorick/Yorick_04.png": {
+        "scale": 0.77,
+        "x": 0.0,
+        "y": 0.22
+    },
+    "Yorick/Yorick_05.png": {
+        "scale": 0.77,
+        "x": 0.0,
+        "y": 0.22
+    },
+    "Yorick/Yorick_06.png": {
+        "scale": 0.77,
+        "x": 0.0,
+        "y": 0.22
+    },
+    "Yorick/Yorick_07.png": {
+        "scale": 0.77,
+        "x": 0.0,
+        "y": 0.22
+    },
+    "Yorick/Yorick_08.png": {
+        "scale": 0.77,
+        "x": 0.0,
+        "y": 0.22
+    },
+    "Yorick/Yorick_09.png": {
+        "scale": 0.77,
+        "x": 0.0,
+        "y": 0.22
+    },
+    "Yunara/Yunara_01.png": {
+        "scale": 0.67,
+        "x": 0.06,
+        "y": 0.3
+    },
+    "Yunara/Yunara_02.png": {
+        "scale": 0.67,
+        "x": 0.06,
+        "y": 0.3
+    },
+    "Yunara/Yunara_03.png": {
+        "scale": 0.67,
+        "x": 0.06,
+        "y": 0.3
+    },
+    "Yunara/Yunara_04.png": {
+        "scale": 0.67,
+        "x": 0.06,
+        "y": 0.3
+    },
+    "Yunara/Yunara_05.png": {
+        "scale": 0.67,
+        "x": 0.06,
+        "y": 0.3
+    },
+    "Yunara/Yunara_06.png": {
+        "scale": 0.67,
+        "x": 0.06,
+        "y": 0.3
+    },
+    "Yunara/Yunara_07.png": {
+        "scale": 0.67,
+        "x": 0.06,
+        "y": 0.3
+    },
+    "Yunara/Yunara_08.png": {
+        "scale": 0.67,
+        "x": 0.06,
+        "y": 0.3
+    },
+    "Yunara/Yunara_09.png": {
+        "scale": 0.67,
+        "x": 0.06,
+        "y": 0.3
+    },
+    "Zahen/Zahen_01.png": {
+        "scale": 0.88,
+        "x": 0.23,
+        "y": 0.3
+    },
+    "Zahen/Zahen_02.png": {
+        "scale": 0.88,
+        "x": 0.23,
+        "y": 0.3
+    },
+    "Zahen/Zahen_03.png": {
+        "scale": 0.88,
+        "x": -0.1,
+        "y": 0.44
+    },
+    "Zahen/Zahen_04.png": {
+        "scale": 0.88,
+        "x": -0.23,
+        "y": 0.44
+    },
+    "Zahen/Zahen_05.png": {
+        "scale": 0.88,
+        "x": -0.13,
+        "y": 0.5
+    },
+    "Zahen/Zahen_06.png": {
+        "scale": 0.88,
+        "x": 0.03,
+        "y": 0.37
+    },
+    "Zahen/Zahen_07.png": {
+        "scale": 0.88,
+        "x": 0.23,
+        "y": 0.3
+    },
+    "Zahen/Zahen_08.png": {
+        "scale": 0.69,
+        "x": 0.07,
+        "y": 0.3
+    },
+    "Zahen/Zahen_09.png": {
+        "scale": 0.75,
+        "x": 0.08,
+        "y": 0.3
+    },
+    "Ziggs/Ziggs_01.png": {
+        "scale": 0.44,
+        "x": 0.18,
+        "y": 0.26
+    },
+    "Ziggs/Ziggs_02.png": {
+        "scale": 0.44,
+        "x": 0.18,
+        "y": 0.26
+    },
+    "Ziggs/Ziggs_03.png": {
+        "scale": 0.44,
+        "x": 0.18,
+        "y": 0.26
+    },
+    "Ziggs/Ziggs_04.png": {
+        "scale": 0.44,
+        "x": 0.18,
+        "y": 0.26
+    },
+    "Ziggs/Ziggs_05.png": {
+        "scale": 0.44,
+        "x": -0.02,
+        "y": 0.26
+    },
+    "Ziggs/Ziggs_06.png": {
+        "scale": 0.44,
+        "x": 0.09,
+        "y": 0.26
+    },
+    "Ziggs/Ziggs_07.png": {
+        "scale": 0.44,
+        "x": 0.18,
+        "y": 0.26
+    },
+    "Ziggs/Ziggs_08.png": {
+        "scale": 0.44,
+        "x": 0.18,
+        "y": 0.26
+    },
+    "Ziggs/Ziggs_09.png": {
+        "scale": 0.44,
+        "x": 0.18,
+        "y": 0.26
+    },
+    "Zilean/Zilean_01.png": {
+        "scale": 0.49,
+        "x": 0.0,
+        "y": 0.26
+    },
+    "Zilean/Zilean_02.png": {
+        "scale": 0.49,
+        "x": 0.0,
+        "y": 0.26
+    },
+    "Zilean/Zilean_03.png": {
+        "scale": 0.49,
+        "x": 0.0,
+        "y": 0.26
+    },
+    "Zilean/Zilean_04.png": {
+        "scale": 0.49,
+        "x": 0.0,
+        "y": 0.26
+    },
+    "Zilean/Zilean_05.png": {
+        "scale": 0.49,
+        "x": 0.0,
+        "y": 0.26
+    },
+    "Zilean/Zilean_06.png": {
+        "scale": 0.49,
+        "x": 0.0,
+        "y": 0.26
+    },
+    "Zilean/Zilean_07.png": {
+        "scale": 0.49,
+        "x": 0.0,
+        "y": 0.26
+    },
+    "Zilean/Zilean_08.png": {
+        "scale": 0.49,
+        "x": 0.0,
+        "y": 0.26
+    },
+    "Zilean/Zilean_09.png": {
+        "scale": 0.49,
+        "x": 0.0,
+        "y": 0.26
+    },
+    "Zoe/Zoe_01.png": {
+        "scale": 0.45,
+        "x": 0.08,
+        "y": 0.28
+    },
+    "Zoe/Zoe_02.png": {
+        "scale": 0.45,
+        "x": 0.08,
+        "y": 0.28
+    },
+    "Zoe/Zoe_03.png": {
+        "scale": 0.45,
+        "x": 0.08,
+        "y": 0.28
+    },
+    "Zoe/Zoe_04.png": {
+        "scale": 0.45,
+        "x": -0.11,
+        "y": 0.28
+    },
+    "Zoe/Zoe_05.png": {
+        "scale": 0.45,
+        "x": -0.12,
+        "y": 0.28
+    },
+    "Zoe/Zoe_06.png": {
+        "scale": 0.45,
+        "x": -0.08,
+        "y": 0.28
+    },
+    "Zoe/Zoe_07.png": {
+        "scale": 0.45,
+        "x": 0.02,
+        "y": 0.28
+    },
+    "Zoe/Zoe_08.png": {
+        "scale": 0.45,
+        "x": 0.08,
+        "y": 0.28
+    },
+    "Zoe/Zoe_09.png": {
+        "scale": 0.45,
+        "x": 0.08,
+        "y": 0.28
+    }
+}

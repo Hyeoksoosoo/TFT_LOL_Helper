@@ -1,0 +1,18 @@
+# 실무형 데이터 관리 (절대 깃에 안 올라감)
+data/
+Tesseract-OCR/
+logs/
+TFT_Project/
+tft_model/
+
+# 특정 확장자 제외
+*.pt
+*.weights
+*.log
+*.csv
+
+# 시스템 및 환경 (수정됨)
+.venv/
+.idea/
+__pycache__/
+.DS_Store
